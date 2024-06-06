@@ -221,6 +221,10 @@ body.dark-theme {
   background-color: transparent;
   z-index: var(--z-fixed);
   transition: .5s;
+  height: 80px;
+  padding-top: 18px;
+  
+  padding-bottom: 18px;
 }
 
 .nav {
